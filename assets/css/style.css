@@ -335,6 +335,9 @@ h6 {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
+    position: relative;
+    background: url("../img/hero-bg.jpg") top right no-repeat;
+    background-size: cover;
   }
 
   #hero h1 {
